@@ -1,7 +1,7 @@
 # CasualtiesUnknown-CN-Installer
 使用方法：
 
-在 [Release 页面](https://github.com/ECHO9955/CasualtiesUnknown-CN-Installer/releases/tag/v1.0)下载最新的 .exe 和 .zip 文件
+在[Release 页面](https://github.com/ECHO9955/CasualtiesUnknown-CN-Installer/releases/tag/v1.0)下载最新的 .exe 和 .zip 文件
 
 将 CasualtiesUnknown-CN-Installer.exe 和 6.1.MOD.zip 放置在同一个文件夹内
 
